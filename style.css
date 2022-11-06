@@ -193,6 +193,7 @@ left: 0;
 footer{
     background-color: black;
     height: 100%;
+    width: 100%;
     bottom: 0;
     position: relative;
 
@@ -200,4 +201,27 @@ footer{
 
 .srl{
     color: white;
+    font-size: 10px;
+    line-height: 3px;
 }
+
+
+.if{
+    font-size: 6px;
+}
+
+.information{
+    display: flex;
+    padding: 0 100px;
+    justify-content: space-between;
+}
+
+.social{
+color: white;
+font-size: 10px;
+}
+
+.leftinfo{
+    line-height: 9px;
+}
+
